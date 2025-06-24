@@ -1,7 +1,6 @@
 streamlit
 scikit-learn
-imblearn
+imbalanced-learn
 numpy
 pandas
 nltk
-string
